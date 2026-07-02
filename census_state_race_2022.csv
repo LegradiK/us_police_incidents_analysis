@@ -1,0 +1,365 @@
+state,race,population
+Alabama,asian,69808
+Alabama,black,1326341
+Alabama,hispanic,232407
+Alabama,mixed,185632
+Alabama,native_american,21122
+Alabama,other,96177
+Alabama,white,3329012
+Alaska,asian,47464
+Alaska,black,23395
+Alaska,hispanic,54890
+Alaska,mixed,82727
+Alaska,native_american,104957
+Alaska,other,25806
+Alaska,white,450472
+Arizona,asian,240642
+Arizona,black,327077
+Arizona,hispanic,2297513
+Arizona,mixed,961794
+Arizona,native_american,297590
+Arizona,other,563477
+Arizona,white,4781702
+Arkansas,asian,47413
+Arkansas,black,456693
+Arkansas,hispanic,243321
+Arkansas,mixed,203476
+Arkansas,native_american,16840
+Arkansas,other,100899
+Arkansas,white,2193348
+California,asian,5949136
+California,black,2202587
+California,hispanic,15617930
+California,mixed,5327003
+California,native_american,394188
+California,other,6539530
+California,white,18943660
+Colorado,asian,185431
+Colorado,black,233712
+Colorado,hispanic,1273762
+Colorado,mixed,609976
+Colorado,native_american,57022
+Colorado,other,291240
+Colorado,white,4393409
+Connecticut,asian,170945
+Connecticut,black,385407
+Connecticut,hispanic,627408
+Connecticut,mixed,288485
+Connecticut,native_american,9043
+Connecticut,other,235271
+Connecticut,white,2522166
+Delaware,asian,40570
+Delaware,black,218266
+Delaware,hispanic,98696
+Delaware,mixed,64130
+Delaware,native_american,3309
+Delaware,other,33116
+Delaware,white,634244
+District of Columbia,asian,27067
+District of Columbia,black,297101
+District of Columbia,hispanic,77168
+District of Columbia,mixed,47278
+District of Columbia,native_american,2209
+District of Columbia,other,31299
+District of Columbia,white,265633
+Florida,asian,609990
+Florida,black,3355708
+Florida,hispanic,5738283
+Florida,mixed,2743467
+Florida,native_american,59197
+Florida,other,1058757
+Florida,white,13807410
+Georgia,asian,465487
+Georgia,black,3373948
+Georgia,hispanic,1078457
+Georgia,mixed,638881
+Georgia,native_american,37920
+Georgia,other,386070
+Georgia,white,5820019
+Hawaii,asian,538970
+Hawaii,black,28665
+Hawaii,hispanic,159023
+Hawaii,mixed,370148
+Hawaii,native_american,4210
+Hawaii,other,175300
+Hawaii,white,333296
+Idaho,asian,24987
+Idaho,black,12781
+Idaho,hispanic,242236
+Idaho,mixed,132577
+Idaho,native_american,22297
+Idaho,other,86608
+Idaho,white,1574859
+Illinois,asian,738071
+Illinois,black,1774605
+Illinois,hispanic,2275704
+Illinois,mixed,952451
+Illinois,native_american,55819
+Illinois,other,848029
+Illinois,white,8388659
+Indiana,asian,168899
+Indiana,black,640752
+Indiana,hispanic,510984
+Indiana,mixed,345830
+Indiana,native_american,12465
+Indiana,other,190230
+Indiana,white,5426227
+Iowa,asian,78940
+Iowa,black,120619
+Iowa,hispanic,208637
+Iowa,mixed,150396
+Iowa,native_american,10111
+Iowa,other,59151
+Iowa,white,2769619
+Kansas,asian,88513
+Kansas,black,163581
+Kansas,hispanic,369970
+Kansas,mixed,215150
+Kansas,native_american,22015
+Kansas,other,105190
+Kansas,white,2341473
+Kentucky,asian,69187
+Kentucky,black,360184
+Kentucky,hispanic,180481
+Kentucky,mixed,189589
+Kentucky,native_american,6821
+Kentucky,other,60157
+Kentucky,white,3816997
+Louisiana,asian,80363
+Louisiana,black,1464582
+Louisiana,hispanic,255584
+Louisiana,mixed,225187
+Louisiana,native_american,24952
+Louisiana,other,86748
+Louisiana,white,2758714
+Maine,asian,15071
+Maine,black,21775
+Maine,hispanic,25898
+Maine,mixed,53704
+Maine,native_american,6722
+Maine,other,8393
+Maine,white,1261284
+Maryland,asian,399736
+Maryland,black,1841926
+Maryland,hispanic,672905
+Maryland,mixed,388933
+Maryland,native_american,18343
+Maryland,other,358522
+Maryland,white,3154247
+Massachusetts,asian,487600
+Massachusetts,black,498785
+Massachusetts,hispanic,879296
+Massachusetts,mixed,557288
+Massachusetts,native_american,14740
+Massachusetts,other,350267
+Massachusetts,white,5075525
+Michigan,asian,327551
+Michigan,black,1363539
+Michigan,hispanic,550427
+Michigan,mixed,543305
+Michigan,native_american,45662
+Michigan,other,160779
+Michigan,white,7617085
+Minnesota,asian,286146
+Minnesota,black,382082
+Minnesota,hispanic,327049
+Minnesota,mixed,302989
+Minnesota,native_american,51434
+Minnesota,other,135422
+Minnesota,white,4537219
+Mississippi,asian,29041
+Mississippi,black,1101836
+Mississippi,hispanic,97123
+Mississippi,mixed,87204
+Mississippi,native_american,12777
+Mississippi,other,42964
+Mississippi,white,1685024
+Missouri,asian,127044
+Missouri,black,693892
+Missouri,hispanic,280078
+Missouri,mixed,331228
+Missouri,native_american,17559
+Missouri,other,100534
+Missouri,white,4884165
+Montana,asian,9211
+Montana,black,6026
+Montana,hispanic,45881
+Montana,mixed,57010
+Montana,native_american,63493
+Montana,other,12273
+Montana,white,943827
+Nebraska,asian,48874
+Nebraska,black,93555
+Nebraska,hispanic,230769
+Nebraska,mixed,124088
+Nebraska,native_american,18550
+Nebraska,other,70633
+Nebraska,white,1603239
+Nevada,asian,263063
+Nevada,black,290223
+Nevada,hispanic,918509
+Nevada,mixed,395499
+Nevada,native_american,40745
+Nevada,other,382504
+Nevada,white,1732783
+New Hampshire,asian,36352
+New Hampshire,black,20920
+New Hampshire,hispanic,58654
+New Hampshire,mixed,63317
+New Hampshire,native_american,2070
+New Hampshire,other,15357
+New Hampshire,white,1241594
+New Jersey,asian,913364
+New Jersey,black,1213265
+New Jersey,hispanic,1963423
+New Jersey,mixed,792890
+New Jersey,native_american,29780
+New Jersey,other,771160
+New Jersey,white,5528604
+New Mexico,asian,34400
+New Mexico,black,44894
+New Mexico,hispanic,1051626
+New Mexico,mixed,348588
+New Mexico,native_american,198140
+New Mexico,other,235827
+New Mexico,white,1250614
+New York,asian,1767598
+New York,black,3011116
+New York,hispanic,3895714
+New York,mixed,1485013
+New York,native_american,93384
+New York,other,1887616
+New York,white,11749652
+North Carolina,asian,325670
+North Carolina,black,2192455
+North Carolina,hispanic,1051008
+North Carolina,mixed,613129
+North Carolina,native_american,109600
+North Carolina,other,428902
+North Carolina,white,6800458
+North Dakota,asian,12474
+North Dakota,black,25233
+North Dakota,hispanic,33189
+North Dakota,mixed,34294
+North Dakota,native_american,36284
+North Dakota,other,12164
+North Dakota,white,656425
+Ohio,asian,283278
+Ohio,black,1449450
+Ohio,hispanic,494625
+Ohio,mixed,581637
+Ohio,native_american,17094
+Ohio,other,161522
+Ohio,white,9281702
+Oklahoma,asian,91720
+Oklahoma,black,284453
+Oklahoma,hispanic,458686
+Oklahoma,mixed,447289
+Oklahoma,native_american,298628
+Oklahoma,other,131740
+Oklahoma,white,2716667
+Oregon,asian,187852
+Oregon,black,79593
+Oregon,hispanic,583066
+Oregon,mixed,389281
+Oregon,native_american,46880
+Oregon,other,197673
+Oregon,white,3328095
+Pennsylvania,asian,473192
+Pennsylvania,black,1407814
+Pennsylvania,hispanic,1055108
+Pennsylvania,mixed,667575
+Pennsylvania,native_american,20570
+Pennsylvania,other,409678
+Pennsylvania,white,10010379
+Puerto Rico,asian,6295
+Puerto Rico,black,286388
+Puerto Rico,hispanic,3231327
+Puerto Rico,mixed,762608
+Puerto Rico,native_american,5066
+Puerto Rico,other,786594
+Puerto Rico,white,1425431
+Rhode Island,asian,37881
+Rhode Island,black,67615
+Rhode Island,hispanic,183196
+Rhode Island,mixed,91944
+Rhode Island,native_american,4072
+Rhode Island,other,76430
+Rhode Island,white,816308
+South Carolina,asian,85834
+South Carolina,black,1326209
+South Carolina,hispanic,318875
+South Carolina,mixed,246238
+South Carolina,native_american,15617
+South Carolina,other,125991
+South Carolina,white,3342861
+South Dakota,asian,12754
+South Dakota,black,19525
+South Dakota,hispanic,39197
+South Dakota,mixed,44430
+South Dakota,native_american,70948
+South Dakota,other,11061
+South Dakota,white,731624
+Tennessee,asian,128630
+Tennessee,black,1126815
+Tennessee,hispanic,412622
+Tennessee,mixed,326851
+Tennessee,native_american,14118
+Tennessee,other,144622
+Tennessee,white,5182736
+Texas,asian,1511069
+Texas,black,3552579
+Texas,hispanic,11665280
+Texas,mixed,4407783
+Texas,native_american,169576
+Texas,other,2308875
+Texas,white,17293460
+Utah,asian,77761
+Utah,black,37712
+Utah,hispanic,480843
+Utah,mixed,224725
+Utah,native_american,32948
+Utah,other,205469
+Utah,white,2705194
+Vermont,asian,10824
+Vermont,black,8000
+Vermont,hispanic,13793
+Vermont,mixed,25809
+Vermont,native_american,1336
+Vermont,other,3716
+Vermont,white,594131
+Virginia,asian,591088
+Virginia,black,1630355
+Virginia,hispanic,865015
+Virginia,mixed,596298
+Virginia,native_american,23728
+Virginia,other,309432
+Virginia,white,5473610
+Washington,asian,708647
+Washington,black,301477
+Washington,hispanic,1037153
+Washington,mixed,759279
+Washington,native_american,91698
+Washington,other,452574
+Washington,white,5374874
+West Virginia,asian,13602
+West Virginia,black,61227
+West Virginia,hispanic,32910
+West Virginia,mixed,66905
+West Virginia,native_american,1730
+West Virginia,other,10161
+West Virginia,white,1639342
+Wisconsin,asian,169052
+Wisconsin,black,363331
+Wisconsin,hispanic,430976
+Wisconsin,mixed,320056
+Wisconsin,native_american,43759
+Wisconsin,other,130951
+Wisconsin,white,4854979
+Wyoming,asian,4717
+Wyoming,black,4891
+Wyoming,hispanic,60518
+Wyoming,mixed,34024
+Wyoming,native_american,12359
+Wyoming,other,17140
+Wyoming,white,504798
